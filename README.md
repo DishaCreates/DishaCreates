@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DishaCreates/DishaCreates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td width="48%" align="center" valign="middle">
 
-Here are some ideas to get you started:
+<img src="./pixel-art-85x68.png" width="420" alt="Disha">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+
+<td width="52%" align="left" valign="middle">
+
+```text
+                         disha@github
+        ─────────────────────────────────────────────
+
+OS: ........................ Windows
+Education: .................. BCA
+Role: ....................... Student Developer
+Focus: ...................... Software Development
+IDE: ........................ VS Code, Android Studio
+
+Languages.Programming: ...... C, C++, Python, Java
+Languages.Web: .............. HTML, CSS, JavaScript
+Frameworks: ................. React.js, Angular
+Mobile: ..................... Kotlin, Jetpack Compose
+
+Interests: .................. AI, GenAI, DSA, Cloud
+
+
+─ Contact ─────────────────────────────────────────
+
+GitHub: ..................... github.com/DishaCreates
+LinkedIn: ................... linkedin.com/in/dishakushwaha 
+Email: ...................... dishakushawaha990@gmail.com
+
+
+─ GitHub Stats ───────────────────────────────────
+
+Repositories: ............... Open Source Projects
+Focus: ...................... Development + AI
+Currently: .................. Learning & Building
